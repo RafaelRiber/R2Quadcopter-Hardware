@@ -1,5 +1,10 @@
 # R2Quadcopter-Hardware
 
+
+<p align="center">
+<img src="https://github.com/RafaelRiber/R2Quadcopter-Hardware/blob/master/Images/IMG_6085.JPG?raw=true">
+</p>
+
 <p align="center">
 <img src="https://github.com/RafaelRiber/R2Quadcopter-Hardware/blob/master/Images/R2Quad%20Logo1.png?raw=true">
 </p>
